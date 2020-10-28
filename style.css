@@ -1,0 +1,126 @@
+*{
+
+    margin:0;
+    adding:0;
+
+}
+.mainbody{
+
+   background:#7FCFC5;
+   width:800px;
+   margin:auto;
+
+}
+
+
+.headbox{
+
+width:800px;
+margin:auto;
+margin-top:5px;
+height:150px;
+padding-top:50px;
+
+
+
+}
+
+
+
+.headbox img{
+
+   width:100px;
+   border-radius:100px;
+   padding:10px;
+   border:2px solid black;
+   float:left;
+   
+
+}
+.information{
+
+float:left;
+padding:20px;
+
+}
+.inform a{
+
+float:right;
+width:300px;
+padding:5px;
+
+
+}
+.cleardiv{
+
+clear:both;
+
+}
+
+.hrrool{
+
+    border:1px solid black;
+  
+  }
+  
+
+
+
+
+
+
+
+
+
+.leftsite{
+
+float:left;
+margin-top:50px;
+color:#1C66D5;
+padding:5px;
+
+
+}
+.rightsite{
+
+float:right;
+width:300px;
+text-align:justify;
+padding:10px;
+width:500px;
+
+}
+.footer{
+
+text-align:center;
+height:60px;
+background-color:black;
+padding-top:20px;
+
+
+
+}
+.footer a{
+
+color:white;
+margin:10px;
+text-decoration:none;
+
+}
+.footer{
+
+color:white;
+
+}
+.footer p{
+
+padding:10px;
+
+}
+
+.rightsite h3{
+padding:10px;
+color:rgb(82, 50, 50);
+
+
+}
